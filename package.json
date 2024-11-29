@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cosmjs/stargate": "^0.32.4",
+    "@sei-js/proto": "^3.1.0"
+  }
+}
