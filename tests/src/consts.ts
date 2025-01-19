@@ -22,6 +22,6 @@ export class TestConsts {
         this.cosmWasmClient = cosmWasmClient;
         this.stargateClient = stargateClient;
         this.signerAddress = defaultAddress;
-        this.nativeDenom = "usei";
+        this.nativeDenom = "ujunox";
     }
 }
